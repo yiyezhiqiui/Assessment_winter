@@ -1,0 +1,3 @@
+/home/yiyezhiqiu/桌面/lht/opencv/边缘检测/build/CMakeFiles/test.dir
+/home/yiyezhiqiu/桌面/lht/opencv/边缘检测/build/CMakeFiles/edit_cache.dir
+/home/yiyezhiqiu/桌面/lht/opencv/边缘检测/build/CMakeFiles/rebuild_cache.dir
